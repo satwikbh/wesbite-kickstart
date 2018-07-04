@@ -10,26 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
+    "System Security",
+    "Machine Learning",
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Science By Research in Computer Science"
+  institution = "International Institute of Information Technology"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Bachelor Of Technology in Computer Science Engineering"
+  institution = "Jawaharlal Nehru Technological University Hyderabad"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
