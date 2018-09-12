@@ -30,6 +30,8 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Computer Science Graduate Student working at CSTAR, International Institute of Information Technology, Hyderabad. I work with Dr. Sanjay Rawat and Dr. Manish Gupta, in the fields of System Security and Machine Learning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My interests are in the application of Machine Learning to the field of Security. I am currently working on mechanisms to determine how malware evolution occurs. Previously, I was also working on fuzzers which employed Genetic Programming techniques.
+
+Prior to this, I worked as a Machine Learning Engineer at Phenom People.
